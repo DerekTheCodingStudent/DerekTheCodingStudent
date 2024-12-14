@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Stock market simulation</b>
-  - [stockMarketSimulation](https://github.com/DerekTheCodingStudent/stockMarketSimulator)
+- [stockMarketSimulation](https://github.com/DerekTheCodingStudent/stockMarketSimulator)
 
 <h2> 🤳 Connect with me:</h2>
 
