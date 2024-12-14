@@ -5,6 +5,7 @@
 - [stockMarketSimulation](https://github.com/DerekTheCodingStudent/stockMarketSimulator)
 
 <h2> Small projects</h2>
+
 - Bash scripts
   - branch script 
     - Allows the developer to back up their current directory to a specified directory. 
