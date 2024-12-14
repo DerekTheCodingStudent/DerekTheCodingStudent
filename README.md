@@ -4,7 +4,7 @@
 
 - [stockMarketSimulation](https://github.com/DerekTheCodingStudent/stockMarketSimulator)
 
-<h3> Small projects</h3>
+<h2> Small projects</h2>
 
 - Bash scripts
   - Branch
