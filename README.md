@@ -7,7 +7,7 @@
 <h2> Small projects</h2>
 
 - Bash scripts
-  - branch script 
+  - Branch
     - Allows the developer to back up their current directory to a specified directory. 
     - Has the functionality to restore from branch, delete branch and lists all the branches
 
