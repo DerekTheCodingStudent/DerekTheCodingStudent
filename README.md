@@ -9,7 +9,7 @@
 - Bash scripts
   - Branch
     - Allows the developer to back up their current directory to a specified directory. 
-    - Has the functionality to restore from branch, delete branch and lists all the branches
+    - Has the functionality to restore from branch, restore from a certain time in the past, delete branch and lists all the branches
 
 <h2> 🤳 Connect with me:</h2>
 
