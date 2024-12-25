@@ -3,6 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [stockMarketSimulation](https://github.com/DerekTheCodingStudent/stockMarketSimulator)
+    - Utilized Object Oriented Programming concepts, such as abstraction and encapsulation, for the simulation of the game.
+    - Utilized hashmaps to store data extracted from JSON files.
+- [Help System Support]
+    - Utilized java and javafx to create a fully functional support system for ASU's Software Engineering course.
+    - Heavily utilized Test Driven Development to ensure correctness.
+    - Followed user stories, derived from the technical and nontechnical requirements.
+    - Utilized a SQL database to store user data.
 
 <h2> Small projects</h2>
 
