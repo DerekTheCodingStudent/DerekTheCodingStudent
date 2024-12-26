@@ -14,7 +14,7 @@
 <h2> Small projects</h2>
 
 - Bash scripts
-  - Branch
+  - Historic
     - Allows the developer to back up their current directory to a specified directory. 
     - Has the functionality to restore from branch, restore from a certain time in the past, delete branch and lists all the branches
 
