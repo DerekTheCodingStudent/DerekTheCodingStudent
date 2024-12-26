@@ -16,7 +16,7 @@
 - Bash scripts
   - Historic
     - Allows the developer to back up their current directory to a specified directory. 
-    - Has the functionality to restore from branch, restore from a certain time in the past, delete branch and lists all the branches
+    - Has the functionality to restore from a branch, restore from a certain time in the past, delete a specific branch and lists all the branches in the specified directory
 
 <h2> 🤳 Connect with me:</h2>
 
